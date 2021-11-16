@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Junior Kyaw Soe</h1>
-<h3 align="center">Univerity of Computer Studies, Sittway</h3>
+<h3 align="center">I'm a Student from Univerity of Computer Studies, Sittway</h3>
 <hr>
 - 👀 I’m interested in coding and listen pop music.<br>
 - 🌱 I’m currently learning Java and Web Development.<br>
