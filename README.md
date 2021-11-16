@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and listen pop music.
 - 🌱 I’m currently learning Java and Web Development.
 - 💞️ I’m looking to collaborate on github.
-- 📫 How to reach me via ookyawsoe@ucssittway.edu.mm
+- 📫 You can reach me via ookyawsoe@ucssittway.edu.mm
 
 <!---
 juniorkyawsoe/juniorkyawsoe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
