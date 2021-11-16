@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Junior Si Thu</h1>
+<h1 align="center">Hi 👋, I'm Junior Kyaw Soe</h1>
 <h3 align="center">Univerity of Computer Studies, Sittway</h3>
 <hr>
 - 👀 I’m interested in coding and listen pop music.<br>
