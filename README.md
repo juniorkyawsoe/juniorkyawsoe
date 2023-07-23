@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Student from Univerity of Computer Studies, Sittway</h3>
 <hr>
 - 👀 I’m interested in coding and listen pop music.<br>
-- 🌱 I’m currently learning Java and Web Development.<br>
+- 🌱 I’m currently learning Android and Web Development.<br>
 - 💞️ I’m looking to collaborate on github.<br>
 - 📫 You can reach me via ookyawsoe@ucssittway.edu.mm<br>
 - 📫 If you want to see my profolio , you see at  https://ookyawsoe-dev.github.io/
